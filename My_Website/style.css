@@ -1,0 +1,248 @@
+* {}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    color: #ffd369;
+    background: #16697a;
+}
+
+#dim1 {
+    border-style: solid;
+    border-spacing: 0px;
+    border-color: #ffa62b;
+    border-radius: 30px;
+    width: 100%;
+
+}
+
+#form {
+    padding-top: 30px;
+}
+
+.cloud1 {
+    text-align: left;
+    width: 500px;
+
+
+}
+
+
+h1 {
+    color: #fc8621;
+    text-align: center;
+}
+
+
+
+#TitleText {
+    margin-top: 10px;
+    font-family: cursive;
+    padding-left: 35%;
+    padding-right: 20%;
+    color: goldenrod;
+
+
+}
+
+.Text {
+    font-family: cursive;
+    color: white;
+    font-size: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    margin: 1em;
+}
+
+
+nav {
+    padding: 0.25em;
+
+}
+
+#nav1 {
+    background-color: #16697a;
+    text-align: right;
+    color: #16697a;
+    margin-top: 0px;
+}
+
+header a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: coral;
+    text-decoration: none;
+}
+
+#img1 {
+    border-style: solid;
+    border-spacing: 0px;
+    border-color: #ffa62b;
+    border-radius: 30px;
+    height: 200px;
+    max-width:200px;
+    
+
+}
+
+#indexbox {
+    padding-top: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    border-style: solid;
+    border-color: #ffd369;
+}
+
+#img2 {
+    padding-left: 50px;
+
+}
+
+#index {
+    color: #fc8621;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+
+#color {
+    background: black;
+    border-width: 8px;
+    border-color: white;
+}
+
+#div1 {
+
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    color: white;
+}
+
+#resume {
+    color: white;
+}
+
+#sec1 {
+
+    
+    text-align: center;
+
+}
+
+#SP {
+    color: gainsboro;
+}
+
+legend {
+    font-weight: bold;
+}
+
+
+.div2 {
+    border: solid grey;
+    margin: 5px;
+    margin-right: 30px;
+    padding: 5px;
+    padding-bottom: 2px;
+    border-collapse: collapse;
+    position: relative;
+}
+
+.Contitle {
+    color: white;
+    text-align: right;
+    margin-right: 10%;
+}
+
+.Contitle1 {
+    margin-top: 50%;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+#contactForm {
+    text-align: center;
+    margin-right: 10%;
+    color: coral;
+}
+
+
+
+#para1 {
+    margin-right: 20px;
+    margin-left: 100px;
+    padding-right: 250px;
+    padding-left: 0px;
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    text-align: left;
+}
+
+
+#sec2 {
+
+    display: flex;
+    flex-direction: row;
+}
+
+main {
+    text-align: center;
+    overflow: auto;
+    padding-bottom: 100px;
+    height: 1000px;
+}
+
+
+footer {
+
+    background-color: #16697a;
+    position: relative;
+    height: 100px;
+    margin-top: -100px;
+    clear: both;
+    color: white;
+    display: flex;
+}
+
+footer a:link {
+    text-decoration: none;
+    color: #fc8621;
+}
+
+a:visited {
+    color: #fc8621;
+}
+
+a:hover {
+    color: #ffd369;
+    text-decoration: none;
+}
+.gallery {
+    background-color: white;
+    display: flexbox;
+    text-align: center;
+    
+
+}
